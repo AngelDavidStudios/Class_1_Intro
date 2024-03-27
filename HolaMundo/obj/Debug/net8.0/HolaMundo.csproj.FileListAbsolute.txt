@@ -1,0 +1,14 @@
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/bin/Debug/net8.0/HolaMundo
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/bin/Debug/net8.0/HolaMundo.deps.json
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/bin/Debug/net8.0/HolaMundo.runtimeconfig.json
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/bin/Debug/net8.0/HolaMundo.dll
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/bin/Debug/net8.0/HolaMundo.pdb
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/obj/Debug/net8.0/HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfoInputs.cache
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfo.cs
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/obj/Debug/net8.0/HolaMundo.csproj.CoreCompileInputs.cache
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/obj/Debug/net8.0/HolaMundo.dll
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/obj/Debug/net8.0/refint/HolaMundo.dll
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/obj/Debug/net8.0/HolaMundo.pdb
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/obj/Debug/net8.0/HolaMundo.genruntimeconfig.cache
+/Users/davidrueda/Desktop/UDLA/5 Semestre/Programacion 4/Desarrollo Web ASP Net/HolaMundo/HolaMundo/obj/Debug/net8.0/ref/HolaMundo.dll
